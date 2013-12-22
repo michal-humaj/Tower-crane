@@ -1,0 +1,32 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.0.1154)
+
+newmtl Layer0
+kd 1 0.329412 0.329412
+ka 1 0.329412 0.329412
+ks 0.329412 0.329412 0.329412
+d 1
+illum 1
+
+newmtl Foregrou
+kd 0 0 0
+ka 0 0 0
+ks 0.329412 0.329412 0.329412
+d 1
+illum 1
+
+newmtl jBlack_Plastic_M
+kd 0.301961 0.301961 0.301961
+ka 0 0 0
+ks 0.254902 0.254902 0.254902
+d 1
+Ns 100
+illum 2
+
+newmtl Handrail
+kd 0.466667 0.466667 0.6
+ka 0.466667 0.466667 0.6
+ks 0.329412 0.329412 0.329412
+d 1
+illum 1
+
